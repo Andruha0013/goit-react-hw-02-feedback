@@ -1,0 +1,15 @@
+.feedback__options{
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    gap: 10px;
+
+    list-style: none;
+}
+.feedback__optionsItem{
+
+}
+.feedback__optionsBtn{
+
+}

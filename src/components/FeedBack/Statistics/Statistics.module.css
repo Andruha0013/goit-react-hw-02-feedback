@@ -1,0 +1,17 @@
+.feedback__statistics{
+    margin: 0;
+    padding: 0;
+
+    list-style: none;
+    outline: 1px solid orange;
+}
+.statistics__item{
+    display: flex;
+    justify-content: space-between;
+}
+.item__name{
+
+}
+.item__value{
+    padding-left: 10px;
+}
